@@ -14,7 +14,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-//Estou usando o lombok para Getter e Setters
+//Estou usando o lombok para Getter, Setters e Constructors
 
 public class Cliente {
 
